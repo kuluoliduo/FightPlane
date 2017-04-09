@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<row id="1"  name="Village" game_type="1" music="1"   mini_map="0" res_name="SceneVillage"  lv="0" />
+<row id="2"  name="Loading" game_type="2" music="2"   mini_map="0" res_name="SceneLoading"  lv="0" />
+<row id="10"  name="level1" game_type="3" music="10"   mini_map="0" res_name="Level1"  lv="0" />
+</root> 
+  
