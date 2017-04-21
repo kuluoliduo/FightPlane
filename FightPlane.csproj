@@ -110,6 +110,7 @@
     <Compile Include="Assets\Scripts\GameLogic\GameObjBase\PropertyBase.cs" />
     <Compile Include="Assets\Scripts\GameLogic\GameObjBase\WeaponRack.cs" />
     <Compile Include="Assets\Scripts\GameLogic\Manager\BattleMgr.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Manager\FileManager.cs" />
     <Compile Include="Assets\Scripts\GameLogic\ObjComponent\MoveComp.cs" />
     <Compile Include="Assets\Scripts\GameLogic\ObjComponent\ObjComponent.cs" />
     <Compile Include="Assets\Scripts\GameLogic\ObjComponent\PlayerCtrComp.cs" />
